@@ -1,0 +1,3 @@
+[submodule "firmware"]
+	path = garage_controller_fiwmware
+	url = https://github.com/domeniqo/garage_controller_fiwmware.git
